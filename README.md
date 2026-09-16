@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=600&size=20&duration=3000&pause=1000&color=E3CFA0&background=14100C&center=true&vCenter=true&width=560&lines=3%2B+years+building+production+web+apps;React%2C+Node.js%2C+Express;MongoDB%2C+PostgreSQL" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=600&size=20&duration=3000&pause=1000&color=E3CFA0&background=14100C&center=true&vCenter=true&width=560&lines=3%2B+years+building+production+web+apps;React.js%2C+Next.js%2C+Node.js;Express.js%2C+Nest.js%2C+PostgreSQL" alt="Typing tagline" />
 </p>
 
 I design and build full-stack web applications end to end — from schema to pixel-perfect, responsive UI. Comfortable across both the MERN and PERN stacks, with a strong focus on clean, maintainable code that scales.
@@ -11,14 +11,16 @@ I design and build full-stack web applications end to end — from schema to pix
 ### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1B1F1D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=1B1F1D" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=1B1F1D" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/Joi_Validation-6F42C1?style=for-the-badge&logoColor=white" alt="Joi Validation" />
+  <img src="https://img.shields.io/badge/REST_APIs-4B5563?style=for-the-badge&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
